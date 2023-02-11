@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CamCap", "CamCap.pyproj", "{43E4BFCA-6BF9-4BF3-9901-8D52ED9C1366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E4BFCA-6BF9-4BF3-9901-8D52ED9C1366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E4BFCA-6BF9-4BF3-9901-8D52ED9C1366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D48F6687-8459-48BB-9A26-DD0EB0ED25CC}
+	EndGlobalSection
+EndGlobal
