@@ -111,7 +111,7 @@ class Ui_MainWindow(object):
         self.T1Button.setText(_translate("MainWindow", "T1Button"))
         self.stopButton.setText(_translate("MainWindow", "Stop"))
         self.T2Button_2.setText(_translate("MainWindow", "T2Button"))
-        self.findCheckBox.setText(_translate("MainWindow", "Find Face"))
+        self.findCheckBox.setText(_translate("MainWindow", "Find plata"))
         self.label_2.setText(_translate("MainWindow", "Effects"))
         self.effectListcomboBox.setItemText(0, _translate("MainWindow", "None"))
         self.effectListcomboBox.setItemText(1, _translate("MainWindow", "Blur"))
